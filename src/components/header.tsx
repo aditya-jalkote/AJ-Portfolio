@@ -41,7 +41,7 @@ export default function Header() {
             <span className="sr-only">LinkedIn</span>
           </Link>
           <Link
-            href="https://twitter.com/AdityaJalkote"
+            href="https://x.com/RiderAJ3"
             target="_blank"
             rel="noopener noreferrer"
             className="text-zinc-400 hover:text-white transition-colors"
